@@ -12,3 +12,8 @@ JankenGameは、シンプルな叩いてかぶってじゃんけんぽんのゲ�
 1. このリポジトリをクローンします。
    ```bash
    git clone https://github.com/ibuki-hanada/JankenGame.git
+2. プロジェクトをお使いのVScodeで開きます。
+4. メインファイル「Game.java」をRun javaで実行してゲームをプレイします。
+
+## 必要条件
+- java Dvelopment Kit(JDK)11以上
