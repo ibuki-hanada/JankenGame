@@ -1,6 +1,3 @@
-import java.io.FileWriter;
-import java.io.IOException;
-
 public class ReadmeGenerator {
     public static void main(String[] args) {
         String content = """
